@@ -1,6 +1,6 @@
 # Link To QR web page
 
-(https://linktoqr-01.netlify.app/)
+https://linktoqr-01.netlify.app/
 
 
 # React + Vite
