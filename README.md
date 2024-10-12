@@ -17,12 +17,12 @@ Application theme: Blue Color Based
 3. Scan QR codes and go to their sites.
 4. Upload QR code as image and go to their sites
 
-## 
-Created by: Hirumitha Kuladewa, Pasindu Hirumal, Shashitha Chamod
-
-
-# React + Vite
+## React + Vite
 
 Install npm: `npm install / npm i`
 
 Run the web site: `npm start`
+
+## 
+Created by: Hirumitha Kuladewa, Pasindu Hirumal, Shashitha Chamod
+
