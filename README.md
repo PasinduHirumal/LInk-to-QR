@@ -24,3 +24,5 @@ Created by: Hirumitha Kuladewa, Pasindu Hirumal, Shashitha Chamod
 # React + Vite
 
 Install npm: `npm install / npm i`
+
+Run the web site: `npm start`
