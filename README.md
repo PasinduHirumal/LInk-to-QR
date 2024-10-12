@@ -1,4 +1,4 @@
-# Link To QR web page
+# Link To QR live demo
 
 https://linktoqr-01.netlify.app/
 
